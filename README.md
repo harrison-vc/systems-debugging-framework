@@ -2,12 +2,12 @@
 
 A comprehensive mental model and technical framework for troubleshooting complex distributed systems. This repository defines a structured, evidence-based approach to identifying, isolating, and resolving system-level failures.
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![SRE](https://img.shields.io/badge/SRE-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-[![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge)](https://en.wikipedia.org/wiki/DevOps)
-[![Networking](https://img.shields.io/badge/Networking-orange?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_network)
-[![Security](https://img.shields.io/badge/Security-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_security)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![SRE](https://img.shields.io/badge/SRE-blue?style=for-the-badge&logo=pagerduty&logoColor=white)](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+[![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)](https://en.wikipedia.org/wiki/DevOps)
+[![Networking](https://img.shields.io/badge/Networking-orange?style=for-the-badge&logo=cisco&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
+[![Security](https://img.shields.io/badge/Security-red?style=for-the-badge&logo=snyk&logoColor=white)](https://en.wikipedia.org/wiki/Computer_security)
 
 ## Debugging Philosophy
 
